@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f37a; /* This sets a background color */
+  background-image: url("C:\DRIVE E\COLLEGE WORK\REACT\portfolio\src\components\background.jpeg"); /* Optional: Add background image */
+  background-size: cover; /* Ensure the image covers the entire document */
+  background-position: center; /* Center the image */
+  background-attachment: fixed; /* Make the background image fixed */
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin: 20px 0;
+  padding: 20px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,9 @@
+section#about {
+    text-align: center;
+    padding: 250px 20px;
+    background-image: url("C:\DRIVE E\COLLEGE WORK\REACT\portfolio\src\components\SWASTIK.jpeg"); /* Add your image path here */
+    background-size: cover; /* Ensure the image covers the entire section */
+    background-position: center; /* Center the image */
+    color: rgb(235, 235, 242); /* Change text color for better visibility */
+  }
+  
