@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3f36bc76.css",
+    "main.js": "/Portfolio/static/js/main.ebbcb468.js",
+    "static/js/453.b21437c2.chunk.js": "/Portfolio/static/js/453.b21437c2.chunk.js",
+    "static/media/SWASTIK.jpeg": "/Portfolio/static/media/SWASTIK.a008ea31c30f51c954d1.jpeg",
+    "static/media/background.jpeg": "/Portfolio/static/media/background.351aa90e0b9241ea91a1.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.3f36bc76.css.map": "/Portfolio/static/css/main.3f36bc76.css.map",
+    "main.ebbcb468.js.map": "/Portfolio/static/js/main.ebbcb468.js.map",
+    "453.b21437c2.chunk.js.map": "/Portfolio/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f36bc76.css",
+    "static/js/main.ebbcb468.js"
+  ]
+}
