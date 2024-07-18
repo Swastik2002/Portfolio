@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f9f37a; /* This sets a background color */
-  background-image: url("C:\DRIVE E\COLLEGE WORK\REACT\portfolio\src\components\background.jpeg"); /* Optional: Add background image */
+  background-image: url("E:\COLLEGE WORK\REACT\portfolio\src\components\background.jpeg"); /* Optional: Add background image */
   background-size: cover; /* Ensure the image covers the entire document */
   background-position: center; /* Center the image */
   background-attachment: fixed; /* Make the background image fixed */
